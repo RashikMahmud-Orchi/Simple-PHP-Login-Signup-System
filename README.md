@@ -57,6 +57,7 @@ CREATE TABLE Orders(
     FOREIGN KEY(User_ID) REFERENCES Users(User_ID) ON DELETE CASCADE
 );
     ```
+![ER-Diagram](https://github.com/RashikMahmud-Orchi/Simple-PHP-Login-Signup-System/assets/107617728/890fcbb3-a434-4694-b40f-813b83c60e09)
 
 3. **Configure database connection:**
     - Open `cred.php` and update the database configuration with your credentials.
@@ -82,6 +83,7 @@ CREATE TABLE Orders(
 ## Usage
 
 - **Signup:** Go to the signup page and create a new account by providing an email and password and all other crerdentials
+  ![2](https://github.com/RashikMahmud-Orchi/Simple-PHP-Login-Signup-System/assets/107617728/72bd2c60-e4d6-44e0-9c6b-67f132b78a40)
 - **Login:** Use the credentials you signed up with to log in.
  ![Home page](https://github.com/RashikMahmud-Orchi/Simple-PHP-Login-Signup-System/assets/107617728/fe8c3d11-9696-4f5d-860d-c10cc5e50b41)
 
