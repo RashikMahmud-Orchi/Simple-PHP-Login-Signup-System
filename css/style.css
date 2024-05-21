@@ -1,0 +1,121 @@
+.page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 90vh;
+    margin-bottom: 20px;
+}
+.registration_page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1em;
+}
+h1 {
+    color: #007bff;
+}
+
+.login {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login input,
+.login button {
+    margin-bottom: 0.1em;
+}
+
+.login button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.profile-info {
+    width: 85%;
+    justify-content: center;
+    background-color: #fff;
+    border: 2px solid black;
+}
+
+
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f8f9fa; 
+}
+
+.profile_page{
+    width:100% ;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+
+/* Form Styles */
+/* .login {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+} */
+
+/* .login input,
+.login button {
+    margin-bottom: 0.1em;
+}
+
+.login button {
+    background-color: #007bff; 
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+} */
+
+.display{
+    padding: 0.5em;
+    margin: 0.1em;
+    background-color: azure;
+    border: 2px solid black;
+}
+
+.registration{
+    background-color:aliceblue ;
+    border: 2px solid black;
+}
+
+.registration input{
+    margin:0.2em;
+    background-color:aliceblue ;
+    border: 2px solid black;
+}
+footer {
+    background-color: #343a40; 
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #007bff;
+    color: #fff;
+} */
+
+
+#reginfo {
+    color: #007bff; 
+}
+
+
