@@ -58,8 +58,9 @@ Welcome to the Simple PHP Login Signup System repository! This project provides 
 
 ## Usage
 
-- **Signup:** Go to the signup page and create a new account by providing an email and password.
+- **Signup:** Go to the signup page and create a new account by providing an email and password and all other crerdentials
 - **Login:** Use the credentials you signed up with to log in.
+ ![Home page](https://github.com/RashikMahmud-Orchi/Simple-PHP-Login-Signup-System/assets/107617728/fe8c3d11-9696-4f5d-860d-c10cc5e50b41)
 
 ## Project Structure
 
